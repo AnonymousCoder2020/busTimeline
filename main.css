@@ -530,6 +530,12 @@ video {
 .flex-wrap {
   flex-wrap: wrap;
 }
+.items-center {
+  align-items: center;
+}
+.justify-center {
+  justify-content: center;
+}
 .overflow-auto {
   overflow: auto;
 }
