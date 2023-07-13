@@ -571,9 +571,9 @@ video {
 .font-bold {
   font-weight: 700;
 }
-.text-zinc-500 {
+.text-red-500 {
   --tw-text-opacity: 1;
-  color: rgb(113 113 122 / var(--tw-text-opacity));
+  color: rgb(239 68 68 / var(--tw-text-opacity));
 }
 .underline {
   text-decoration-line: underline;
