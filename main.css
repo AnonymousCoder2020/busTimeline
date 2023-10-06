@@ -550,6 +550,9 @@ video {
   --tw-bg-opacity: 1;
   background-color: rgb(94 234 212 / var(--tw-bg-opacity));
 }
+.p-2 {
+  padding: 0.5rem;
+}
 .text-center {
   text-align: center;
 }
@@ -598,3 +601,5 @@ video {
   transition-duration: 150ms;
 }
 
+
+/*# sourceMappingURL=main.css.map*/
